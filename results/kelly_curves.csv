@@ -1,0 +1,4 @@
+case,win_rate,kelly_fraction,growth_full,growth_share_0.25x,growth_share_0.5x,growth_share_2x
+CI low,0.193,-0.160947,,,,
+record,0.416667,0.160819,0.0278811,0.452161,0.761835,0.100779
+CI high,0.68,0.539649,0.297238,0.457532,0.75832,
